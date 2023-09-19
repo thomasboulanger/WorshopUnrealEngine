@@ -5,6 +5,14 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"E:/enjmin_2023-2024/atelier_unreal/workshop_ld/WorshopUnrealEngine/Content/_TinyIslands/Maps/Team14/Template_Map1.umap",
+				"E:/enjmin_2023-2024/atelier_unreal/workshop_ld/WorshopUnrealEngine/Content/_TinyIslands/Maps/Team14/Map_Team14.umap",
+				"E:/enjmin_2023-2024/atelier_unreal/workshop_ld/WorshopUnrealEngine/Content/_TinyIslands/Maps/Team14/data_layers/eris_data_layer.uasset",
+				"E:/enjmin_2023-2024/atelier_unreal/workshop_ld/WorshopUnrealEngine/Content/_TinyIslands/Maps/Team14/data_layers/fae_data_layer.uasset",
+				"E:/enjmin_2023-2024/atelier_unreal/workshop_ld/WorshopUnrealEngine/Content/_TinyIslands/Maps/Team14/data_layers/helene_data_layer.uasset",
+				"E:/enjmin_2023-2024/atelier_unreal/workshop_ld/WorshopUnrealEngine/Content/_TinyIslands/Maps/Team14/data_layers/thomas_data_layer.uasset",
+				"E:/enjmin_2023-2024/atelier_unreal/workshop_ld/WorshopUnrealEngine/Content/__ExternalActors__/_TinyIslands/Maps/Team14/Map_Team14/7/5N/PR1FFLG0V6828X4QSJGDF6.uasset",
+				"E:/enjmin_2023-2024/atelier_unreal/workshop_ld/WorshopUnrealEngine/Content/__ExternalActors__/_TinyIslands/Maps/Team14/Map_Team14/6/TJ/OGOGDBWR36282LWEUS1JY6.uasset",
 				"C:/Users/tomal/OneDrive/Bureau/Unreal/LD-WORKSHOP-M2/Content/StarterContent/HDRI/HDRI_Epic_Courtyard_Daylight.uasset",
 				"C:/Users/tomal/OneDrive/Bureau/Unreal/LD-WORKSHOP-M2/Content/_TinyIslands/Maps/Actors_Gym.umap"
 			]
