@@ -5,6 +5,21 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"C:/Users/tomal/OneDrive/Bureau/Unreal/LD-WORKSHOP-M2/Content/StarterContent/HDRI/HDRI_Epic_Courtyard_Daylight.uasset",
+				"C:/Users/tomal/OneDrive/Bureau/Unreal/LD-WORKSHOP-M2/Content/_TinyIslands/Maps/Actors_Gym.umap",
+				"C:/Users/tomal/OneDrive/Bureau/Unreal/LD-WORKSHOP-M2/Content/__ExternalActors__/_TinyIslands/Maps/Team14/Map_Team14/0/6L/JVN07WAAWDTN1PTCDMVZWJ.uasset",
+				"C:/Users/tomal/OneDrive/Bureau/Unreal/LD-WORKSHOP-M2/Content/__ExternalActors__/_TinyIslands/Maps/Team14/Map_Team14/4/07/NFA3HHWEY8XUUQ5PE9GB6V.uasset",
+				"C:/Users/tomal/OneDrive/Bureau/Unreal/LD-WORKSHOP-M2/Content/__ExternalActors__/_TinyIslands/Maps/Team14/Map_Team14/7/LI/9L4HUUKZEDNI2F6A9TJIJP.uasset",
+				"C:/Users/tomal/OneDrive/Bureau/Unreal/LD-WORKSHOP-M2/Content/__ExternalActors__/_TinyIslands/Maps/Team14/Map_Team14/A/EL/1HIAJ59EG6TQIYN1M0M1SC.uasset",
+				"C:/Users/tomal/OneDrive/Bureau/Unreal/LD-WORKSHOP-M2/Content/__ExternalActors__/_TinyIslands/Maps/Team14/Map_Team14/5/L7/J1QB41GV86G4OZ54G074QI.uasset",
+				"C:/Users/tomal/OneDrive/Bureau/Unreal/LD-WORKSHOP-M2/Content/__ExternalActors__/_TinyIslands/Maps/Team14/Map_Team14/2/TS/LS1ZUG0AJNTZNARR7XMVLU.uasset",
+				"C:/Users/tomal/OneDrive/Bureau/Unreal/LD-WORKSHOP-M2/Content/__ExternalActors__/_TinyIslands/Maps/Team14/Map_Team14/D/1X/P6W1ZK5HZQ3QW7Q0VTZHPK.uasset",
+				"C:/Users/tomal/OneDrive/Bureau/Unreal/LD-WORKSHOP-M2/Content/__ExternalActors__/_TinyIslands/Maps/Team14/Map_Team14/5/4H/7UD31MWA6YG09RPXJOZEDG.uasset",
+				"C:/Users/tomal/OneDrive/Bureau/Unreal/LD-WORKSHOP-M2/Content/__ExternalActors__/_TinyIslands/Maps/Team14/Map_Team14/B/QV/TE5MIHO1LHJK6PSGZ8ZXMO.uasset",
+				"C:/Users/tomal/OneDrive/Bureau/Unreal/LD-WORKSHOP-M2/Content/__ExternalActors__/_TinyIslands/Maps/Team14/Map_Team14/E/ZF/979V1K3SS158097E8BSICV.uasset",
+				"C:/Users/tomal/OneDrive/Bureau/Unreal/LD-WORKSHOP-M2/Content/__ExternalActors__/_TinyIslands/Maps/Team14/Map_Team14/1/FB/SCCJVTETKF6AV2FUJTINWL.uasset",
+				"C:/Users/tomal/OneDrive/Bureau/Unreal/LD-WORKSHOP-M2/Content/__ExternalActors__/_TinyIslands/Maps/Team14/Map_Team14/2/HV/4X1KGPTAEV2N4MNQFM4RP8.uasset",
+				"C:/Users/tomal/OneDrive/Bureau/Unreal/LD-WORKSHOP-M2/Content/__ExternalActors__/_TinyIslands/Maps/Team14/Map_Team14/F/1K/7BL1FAN9Z1EUW7BKSC7VBB.uasset",
 				"E:/enjmin_2023-2024/atelier_unreal/workshop_ld/WorshopUnrealEngine/Content/_TinyIslands/Maps/Team14/Template_Map1.umap",
 				"E:/enjmin_2023-2024/atelier_unreal/workshop_ld/WorshopUnrealEngine/Content/_TinyIslands/Maps/Team14/Map_Team14.umap",
 				"E:/enjmin_2023-2024/atelier_unreal/workshop_ld/WorshopUnrealEngine/Content/_TinyIslands/Maps/Team14/data_layers/eris_data_layer.uasset",
@@ -12,9 +27,7 @@
 				"E:/enjmin_2023-2024/atelier_unreal/workshop_ld/WorshopUnrealEngine/Content/_TinyIslands/Maps/Team14/data_layers/helene_data_layer.uasset",
 				"E:/enjmin_2023-2024/atelier_unreal/workshop_ld/WorshopUnrealEngine/Content/_TinyIslands/Maps/Team14/data_layers/thomas_data_layer.uasset",
 				"E:/enjmin_2023-2024/atelier_unreal/workshop_ld/WorshopUnrealEngine/Content/__ExternalActors__/_TinyIslands/Maps/Team14/Map_Team14/7/5N/PR1FFLG0V6828X4QSJGDF6.uasset",
-				"E:/enjmin_2023-2024/atelier_unreal/workshop_ld/WorshopUnrealEngine/Content/__ExternalActors__/_TinyIslands/Maps/Team14/Map_Team14/6/TJ/OGOGDBWR36282LWEUS1JY6.uasset",
-				"C:/Users/tomal/OneDrive/Bureau/Unreal/LD-WORKSHOP-M2/Content/StarterContent/HDRI/HDRI_Epic_Courtyard_Daylight.uasset",
-				"C:/Users/tomal/OneDrive/Bureau/Unreal/LD-WORKSHOP-M2/Content/_TinyIslands/Maps/Actors_Gym.umap"
+				"E:/enjmin_2023-2024/atelier_unreal/workshop_ld/WorshopUnrealEngine/Content/__ExternalActors__/_TinyIslands/Maps/Team14/Map_Team14/6/TJ/OGOGDBWR36282LWEUS1JY6.uasset"
 			]
 		}
 	]
