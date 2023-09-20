@@ -2744,3 +2744,405 @@ Purging the undo buffer...
 [2023.09.20-09.26.30:995][ 45]LogUObjectHash: Compacting FUObjectHashTables data took   0.46ms
 [2023.09.20-09.26.31:005][ 45]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
 [2023.09.20-09.26.31:411][ 63]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.09.20-09.28.19:827][894]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.09.20-09.28.20:109][899]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.09.20-09.28.53:331][868]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.09.20-09.28.54:420][932]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2023.09.20-09.28.55:076][966]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.09.20-09.28.55:140][967]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.09.20-09.28.56:667][ 40]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.09.20-09.28.59:207][186]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.09.20-09.28.59:266][187]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.09.20-09.29.00:384][233]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.09.20-09.29.00:930][266]Cmd: TRANSACTION UNDO
+[2023.09.20-09.29.00:930][266]LogEditorTransaction: Undo Move Elements
+[2023.09.20-09.29.01:021][266]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.09.20-09.29.02:675][346]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2023.09.20-09.29.06:792][586]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.09.20-09.29.11:520][870]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.09.20-09.29.11:609][870]LogUObjectHash: Compacting FUObjectHashTables data took   0.67ms
+[2023.09.20-09.29.11:624][870]LogUObjectHash: Compacting FUObjectHashTables data took   0.40ms
+[2023.09.20-09.29.11:637][870]LogUObjectHash: Compacting FUObjectHashTables data took   0.36ms
+[2023.09.20-09.29.11:640][870]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/_TinyIslands/Maps/Team14/Map_Team14/7/JJ/0642ZE95I9ECLI61YU0M31
+[2023.09.20-09.29.11:640][870]LogSavePackage: Moving 'C:/Users/tomal/OneDrive/Bureau/Unreal/LD-WORKSHOP-M2/Saved/0642ZE95I9ECLI61YU0M31D779CA404BA96263FA5D70A335991A5D.tmp' to 'C:/Users/tomal/OneDrive/Bureau/Unreal/LD-WORKSHOP-M2/Content/__ExternalActors__/_TinyIslands/Maps/Team14/Map_Team14/7/JJ/0642ZE95I9ECLI61YU0M31.uasset'
+[2023.09.20-09.29.11:651][870]LogFileHelpers: InternalPromptForCheckoutAndSave took 131 ms (total: 1.48 sec)
+[2023.09.20-09.29.11:655][870]AssetCheck: New page: Asset Save: StaticMeshActor_UAID_04D4C47697B6FFAA01_1816273590
+[2023.09.20-09.29.11:655][870]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/_TinyIslands/Maps/Team14/Map_Team14.Map_Team14:PersistentLevel.StaticMeshActor_UAID_04D4C47697B6FFAA01_1816273590
+[2023.09.20-09.29.11:664][870]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.09.20-09.29.20:135][369]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2023.09.20-09.29.22:718][517]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2023.09.20-09.29.27:908][799]Cmd: TRANSACTION UNDO
+[2023.09.20-09.29.27:908][799]LogEditorTransaction: Undo Transform
+[2023.09.20-09.29.27:997][799]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.09.20-09.29.29:206][851]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/_TinyIslands/Maps/Team14/_GENERATED/tomal/Stairs_6FDE794C.Stairs_6FDE794C
+[2023.09.20-09.29.29:206][851]LogStaticMesh: Display: Building static mesh Stairs_6FDE794C...
+[2023.09.20-09.29.29:207][851]LogActorFactory: Actor Factory spawned StaticMesh /Game/_TinyIslands/Maps/Team14/_GENERATED/tomal/Stairs_6FDE794C.Stairs_6FDE794C as actor: StaticMeshActor /Game/_TinyIslands/Maps/Team14/Map_Team14.Map_Team14:PersistentLevel.StaticMeshActor_UAID_04D4C47697B6FFAA01_1850424592
+[2023.09.20-09.29.29:208][851]LogStaticMesh: Built static mesh [0.00s] /Game/_TinyIslands/Maps/Team14/_GENERATED/tomal/Stairs_6FDE794C.Stairs_6FDE794C
+[2023.09.20-09.29.31:498][961]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2023.09.20-09.29.41:739][523]Cmd: TRANSACTION UNDO
+[2023.09.20-09.29.41:739][523]LogEditorTransaction: Undo Scale Elements
+[2023.09.20-09.29.41:813][523]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.09.20-09.29.42:340][536]Cmd: TRANSACTION UNDO
+[2023.09.20-09.29.42:340][536]LogEditorTransaction: Undo Scale Elements
+[2023.09.20-09.29.42:354][536]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.09.20-09.29.53:207][183]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2023.09.20-09.30.03:353][778]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2023.09.20-09.30.11:784][261]Cmd: TRANSACTION UNDO
+[2023.09.20-09.30.11:784][261]LogEditorTransaction: Undo Edit Linear Damping
+[2023.09.20-09.30.11:846][261]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.09.20-09.30.25:314][999]Cmd: DUPLICATE
+[2023.09.20-09.30.25:314][999]Cmd: ACTOR DUPLICATE
+[2023.09.20-09.30.25:346][999]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.09.20-09.30.27:211][109]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2023.09.20-09.30.29:491][235]EditorErrors: New page: Actor attachment
+[2023.09.20-09.30.35:005][532]Cmd: TRANSACTION UNDO
+[2023.09.20-09.30.35:005][532]LogEditorTransaction: Undo Move Elements
+[2023.09.20-09.30.35:080][532]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.09.20-09.30.35:968][565]Cmd: MODE GRID=1
+[2023.09.20-09.32.12:135][457]Cmd: MODE GRID=0
+[2023.09.20-09.32.19:187][856]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2023.09.20-09.32.48:444][551]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2023.09.20-09.32.48:785][569]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2023.09.20-09.32.59:866][ 51]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2023.09.20-09.33.29:558][782]Cmd: DUPLICATE
+[2023.09.20-09.33.29:558][782]Cmd: ACTOR DUPLICATE
+[2023.09.20-09.33.29:592][782]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.09.20-09.33.30:320][823]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.09.20-09.33.33:537][ 15]Cmd: TRANSACTION UNDO
+[2023.09.20-09.33.33:537][ 15]LogEditorTransaction: Undo Duplicate Elements
+[2023.09.20-09.33.33:749][ 16]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.09.20-09.33.36:938][189]Cmd: DUPLICATE
+[2023.09.20-09.33.36:938][189]Cmd: ACTOR DUPLICATE
+[2023.09.20-09.33.36:978][189]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.09.20-09.33.59:534][399]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2023.09.20-09.34.31:372][257]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/_TinyIslands/Maps/Team14/_GENERATED/tomal/Box_C943EB91.Box_C943EB91
+[2023.09.20-09.34.31:372][257]LogStaticMesh: Display: Building static mesh Box_C943EB91...
+[2023.09.20-09.34.31:373][257]LogStaticMesh: Built static mesh [0.00s] /Game/_TinyIslands/Maps/Team14/_GENERATED/tomal/Box_C943EB91.Box_C943EB91
+[2023.09.20-09.34.31:373][257]LogActorFactory: Actor Factory spawned StaticMesh /Game/_TinyIslands/Maps/Team14/_GENERATED/tomal/Box_C943EB91.Box_C943EB91 as actor: StaticMeshActor /Game/_TinyIslands/Maps/Team14/Map_Team14.Map_Team14:PersistentLevel.StaticMeshActor_UAID_04D4C47697B600AB01_1078848773
+[2023.09.20-09.34.33:946][397]EditorErrors: New page: Actor attachment
+[2023.09.20-09.34.34:513][429]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.09.20-09.35.03:748][477]Cmd: TRANSACTION UNDO
+[2023.09.20-09.35.03:748][477]LogEditorTransaction: Undo Move Elements
+[2023.09.20-09.35.03:825][477]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.09.20-09.35.11:133][884]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2023.09.20-09.37.07:026][377]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2023.09.20-09.37.18:001][ 10]Cmd: TRANSACTION UNDO
+[2023.09.20-09.37.18:001][ 10]LogEditorTransaction: Undo Move Elements
+[2023.09.20-09.37.18:076][ 10]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.09.20-09.37.40:011][214]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.09.20-09.37.44:627][476]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.09.20-09.37.46:324][573]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2023.09.20-09.38.46:359][ 48]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/_TinyIslands/Maps/Team14/_GENERATED/tomal/Stairs_1A0807C1.Stairs_1A0807C1
+[2023.09.20-09.38.46:359][ 48]LogStaticMesh: Display: Building static mesh Stairs_1A0807C1...
+[2023.09.20-09.38.46:361][ 48]LogActorFactory: Actor Factory spawned StaticMesh /Game/_TinyIslands/Maps/Team14/_GENERATED/tomal/Stairs_1A0807C1.Stairs_1A0807C1 as actor: StaticMeshActor /Game/_TinyIslands/Maps/Team14/Map_Team14.Map_Team14:PersistentLevel.StaticMeshActor_UAID_04D4C47697B600AB01_1333835774
+[2023.09.20-09.38.46:362][ 48]LogStaticMesh: Built static mesh [0.00s] /Game/_TinyIslands/Maps/Team14/_GENERATED/tomal/Stairs_1A0807C1.Stairs_1A0807C1
+[2023.09.20-09.38.49:671][205]Cmd: DELETE
+[2023.09.20-09.38.49:671][205]Cmd: ACTOR DELETE
+[2023.09.20-09.38.49:673][205]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.09.20-09.38.49:675][205]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.09.20-09.38.49:676][205]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.09.20-09.38.49:676][205]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.09.20-09.38.49:677][205]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.09.20-09.38.49:691][205]LogWorldPartition: Actor /Game/_TinyIslands/Maps/Team14/Map_Team14.Map_Team14:PersistentLevel.StaticMeshActor_UAID_04D4C47697B6FFAA01_2090777594 is unreachable without properly detaching object /Game/__ExternalActors__/_TinyIslands/Maps/Team14/Map_Team14/3/DF/4LUY1BAPMBJKXTLIAJ9992.PackageMetaData in its package
+[2023.09.20-09.38.49:691][205]LogWorldPartition: Actor /Game/_TinyIslands/Maps/Team14/Map_Team14.Map_Team14:PersistentLevel.StaticMeshActor_UAID_04D4C47697B6FFAA01_1820403591 is unreachable without properly detaching object /Game/__ExternalActors__/_TinyIslands/Maps/Team14/Map_Team14/0/65/PZ5T9LWR1WTPL32VCJUXQV.PackageMetaData in its package
+[2023.09.20-09.38.49:694][205]LogUObjectHash: Compacting FUObjectHashTables data took   1.01ms
+[2023.09.20-09.38.49:696][205]LogEditorActor: Deleted 5 Actors (0.024 secs)
+[2023.09.20-09.38.49:713][205]LogUObjectHash: Compacting FUObjectHashTables data took   0.95ms
+[2023.09.20-09.38.52:059][340]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2023.09.20-09.39.17:234][287]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.09.20-09.39.19:004][390]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.09.20-09.40.22:339][754]Cmd: TRANSACTION UNDO
+[2023.09.20-09.40.22:339][754]LogEditorTransaction: Undo Place Mesh
+[2023.09.20-09.40.22:414][754]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.09.20-09.41.14:420][533]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.09.20-09.41.14:588][543]Cmd: TRANSACTION UNDO
+[2023.09.20-09.41.14:588][543]LogEditorTransaction: Undo Clicking on Elements
+[2023.09.20-09.41.14:682][543]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.09.20-09.41.15:233][554]Cmd: TRANSACTION UNDO
+[2023.09.20-09.41.15:233][554]LogEditorTransaction: Undo Transform
+[2023.09.20-09.41.15:278][554]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.09.20-09.41.29:537][388]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2023.09.20-09.41.30:181][424]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2023.09.20-09.41.43:223][181]Cmd: TRANSACTION UNDO
+[2023.09.20-09.41.43:224][181]LogEditorTransaction: Undo Transform
+[2023.09.20-09.41.43:281][181]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.09.20-09.42.09:455][418]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2023.09.20-09.42.30:887][674]LogStaticMesh: Display: Building static mesh Stairs_5B3F8C73...
+[2023.09.20-09.42.30:887][674]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/_TinyIslands/Maps/Team14/_GENERATED/tomal/Stairs_5B3F8C73.Stairs_5B3F8C73
+[2023.09.20-09.42.30:890][674]LogActorFactory: Actor Factory spawned StaticMesh /Game/_TinyIslands/Maps/Team14/_GENERATED/tomal/Stairs_5B3F8C73.Stairs_5B3F8C73 as actor: StaticMeshActor /Game/_TinyIslands/Maps/Team14/Map_Team14.Map_Team14:PersistentLevel.StaticMeshActor_UAID_04D4C47697B600AB01_1558363775
+[2023.09.20-09.42.30:908][674]LogStaticMesh: Display: Waiting for static meshes to be ready 0/1 (/Game/_TinyIslands/Maps/Team14/_GENERATED/tomal/Stairs_5B3F8C73) ...
+[2023.09.20-09.42.30:973][674]LogStaticMesh: Built static mesh [0.09s] /Game/_TinyIslands/Maps/Team14/_GENERATED/tomal/Stairs_5B3F8C73.Stairs_5B3F8C73
+[2023.09.20-09.42.36:389][674]LogMeshUtilities: Finished distance field build in 3.8s - 126x126x126 sparse distance field, 1.9Mb total, 0.1Mb always loaded, 55% occupied, 4533 triangles, Stairs_5B3F8C73
+[2023.09.20-09.42.36:410][674]LogStaticMesh: Display: Waiting for static meshes to be ready 0/1 (/Game/_TinyIslands/Maps/Team14/_GENERATED/tomal/Stairs_5B3F8C73) ...
+[2023.09.20-09.42.36:493][675]LogAutomationController: Ignoring very large delta of 5.69 seconds in calls to FAutomationControllerManager::Tick() and not penalizing unresponsive tests
+[2023.09.20-09.42.36:556][675]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.09.20-09.42.40:907][788]LogMeshUtilities: Finished distance field build in 4.5s - 126x126x126 sparse distance field, 1.9Mb total, 0.1Mb always loaded, 55% occupied, 4533 triangles, Stairs_5B3F8C73
+[2023.09.20-09.42.46:789][119]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.09.20-09.42.50:020][309]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.09.20-09.42.52:612][455]EditorErrors: New page: Actor attachment
+[2023.09.20-09.42.57:146][719]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.09.20-09.42.57:796][757]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.09.20-09.42.58:510][799]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.09.20-09.43.01:165][959]Cmd: TRANSACTION UNDO
+[2023.09.20-09.43.01:165][959]LogEditorTransaction: Undo Set Location
+[2023.09.20-09.43.01:245][959]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.09.20-09.43.01:647][967]Cmd: TRANSACTION UNDO
+[2023.09.20-09.43.01:647][967]LogEditorTransaction: Undo Set Location
+[2023.09.20-09.43.01:712][967]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.09.20-09.43.01:844][975]Cmd: TRANSACTION UNDO
+[2023.09.20-09.43.01:844][975]LogEditorTransaction: Undo Set Location
+[2023.09.20-09.43.01:870][975]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.09.20-09.43.02:457][ 10]Cmd: TRANSACTION UNDO
+[2023.09.20-09.43.02:457][ 10]LogEditorTransaction: Undo Clicking on Actors
+[2023.09.20-09.43.02:497][ 10]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.09.20-09.43.06:403][232]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.09.20-09.43.07:037][269]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.09.20-09.43.07:750][311]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.09.20-09.43.19:595][952]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.09.20-09.43.35:612][899]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.09.20-09.43.41:527][234]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.09.20-09.43.49:729][708]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.09.20-09.43.54:886][ 16]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.09.20-09.44.03:015][487]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.09.20-09.44.07:845][769]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2023.09.20-09.44.19:743][389]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.09.20-09.44.33:829][193]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.09.20-09.44.48:190][966]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.09.20-09.44.52:895][244]Cmd: DELETE
+[2023.09.20-09.44.52:895][244]Cmd: ACTOR DELETE
+[2023.09.20-09.44.52:897][244]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.09.20-09.44.52:913][244]LogUObjectHash: Compacting FUObjectHashTables data took   0.73ms
+[2023.09.20-09.44.52:915][244]LogEditorActor: Deleted 1 Actors (0.020 secs)
+[2023.09.20-09.45.00:764][674]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.09.20-09.45.11:835][318]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.09.20-09.45.13:149][390]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.09.20-09.45.13:325][399]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.09.20-09.45.36:521][758]LogShaderCompilers: Display: ================================================
+[2023.09.20-09.45.36:521][758]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2023.09.20-09.45.36:521][758]LogShaderCompilers: Display: Total job queries 72, among them cache hits 12 (16.67%)
+[2023.09.20-09.45.36:521][758]LogShaderCompilers: Display: Tracking 60 distinct input hashes that result in 37 distinct outputs (61.67%)
+[2023.09.20-09.45.36:521][758]LogShaderCompilers: Display: RAM used: 1,23 MiB of 819,20 MiB budget. Usage: 0.15%
+[2023.09.20-09.45.36:521][758]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2023.09.20-09.45.36:521][758]LogShaderCompilers: Display: Shaders Compiled: 0
+[2023.09.20-09.45.36:521][758]LogShaderCompilers: Display: Jobs assigned 0, completed 0 (0.00%)
+[2023.09.20-09.45.36:521][758]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 0.00 s
+[2023.09.20-09.45.36:521][758]LogShaderCompilers: Display: ================================================
+[2023.09.20-09.45.45:796][290]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.09.20-09.45.45:886][290]LogUObjectHash: Compacting FUObjectHashTables data took   0.34ms
+[2023.09.20-09.45.45:902][290]LogUObjectHash: Compacting FUObjectHashTables data took   0.37ms
+[2023.09.20-09.45.45:916][290]LogUObjectHash: Compacting FUObjectHashTables data took   0.35ms
+[2023.09.20-09.45.45:918][290]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/_TinyIslands/Maps/Team14/Map_Team14/8/I3/K25GEF84NRJ51DAFENC1ZU
+[2023.09.20-09.45.45:918][290]LogSavePackage: Moving 'C:/Users/tomal/OneDrive/Bureau/Unreal/LD-WORKSHOP-M2/Saved/K25GEF84NRJ51DAFENC1ZU46FEC12740DAAF3690D2EFB249EC1F21.tmp' to 'C:/Users/tomal/OneDrive/Bureau/Unreal/LD-WORKSHOP-M2/Content/__ExternalActors__/_TinyIslands/Maps/Team14/Map_Team14/8/I3/K25GEF84NRJ51DAFENC1ZU.uasset'
+[2023.09.20-09.45.45:928][290]LogFileHelpers: InternalPromptForCheckoutAndSave took 132 ms (total: 1.61 sec)
+[2023.09.20-09.45.45:933][290]AssetCheck: New page: Asset Save: StaticMeshActor_UAID_04D4C47697B600AB01_1558363775
+[2023.09.20-09.45.45:933][290]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/_TinyIslands/Maps/Team14/Map_Team14.Map_Team14:PersistentLevel.StaticMeshActor_UAID_04D4C47697B600AB01_1558363775
+[2023.09.20-09.45.45:943][290]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.09.20-09.46.05:698][473]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2023.09.20-09.46.05:706][473]LogContentBundle: [Map_Team14(Standalone)] Generating Streaming for 0 Content Bundles.
+[2023.09.20-09.46.05:708][473]LogWorldPartition: Display: GenerateStreaming started...
+[2023.09.20-09.46.05:708][473]LogWorldPartition: Display: GetPartitionedActors started...
+[2023.09.20-09.46.05:708][473]LogWorldPartition: Display: GetPartitionedActors took 13 us (total: 2 ms)
+[2023.09.20-09.46.05:708][473]LogWorldPartition: Display: GenerateStreaming took 240 us (total: 10 ms)
+[2023.09.20-09.46.05:708][473]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.09.20-09.46.05:708][473]PIE: New page: PIE session: Map_Team14 (20 sept. 2023 à 13:46:05)
+[2023.09.20-09.46.05:745][473]LogPlayLevel: Creating play world package: /Game/_TinyIslands/Maps/Team14/UEDPIE_0_Map_Team14
+[2023.09.20-09.46.05:751][473]LogPlayLevel: PIE: StaticDuplicateObject took: (0.005452s)
+[2023.09.20-09.46.05:751][473]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/_TinyIslands/Maps/Team14/Map_Team14.Map_Team14 to /Game/_TinyIslands/Maps/Team14/UEDPIE_0_Map_Team14.Map_Team14 (0.005487s)
+[2023.09.20-09.46.05:751][473]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.09.20-09.46.05:751][473]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.09.20-09.46.05:751][473]LogAIModule: Creating AISystem for world Map_Team14
+[2023.09.20-09.46.05:752][473]LogWorldPartition: ULevel::OnLevelLoaded(Map_Team14)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, bIsValidLevelInstance=0, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2023.09.20-09.46.05:753][473]LogWorldPartition: Display: WorldPartition initialize started...
+[2023.09.20-09.46.05:753][473]LogWorldPartition: UWorldPartition::Initialize(Asset=Map_Team14, IsEditor=0, bPIEWorldTravel=0 IsGame=0, IsCooking=0)
+[2023.09.20-09.46.05:754][473]LogContentBundle: [Map_Team14(Standalone)] Creating new contrainer.
+[2023.09.20-09.46.05:754][473]LogWorldPartition: Display: WorldPartition initialize took 1 ms (total: 354 ms)
+[2023.09.20-09.46.05:754][473]LogPlayLevel: PIE: World Init took: (0.003202s)
+[2023.09.20-09.46.05:765][473]LogUObjectHash: Compacting FUObjectHashTables data took   0.59ms
+[2023.09.20-09.46.05:767][473]LogAudio: Display: Creating Audio Device:                 Id: 4, Scope: Unique, Realtime: True
+[2023.09.20-09.46.05:767][473]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.09.20-09.46.05:767][473]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.09.20-09.46.05:767][473]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.09.20-09.46.05:767][473]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.09.20-09.46.05:767][473]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.09.20-09.46.05:767][473]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2023.09.20-09.46.05:767][473]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.09.20-09.46.05:767][473]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.09.20-09.46.05:768][473]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.09.20-09.46.05:768][473]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.09.20-09.46.05:768][473]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.09.20-09.46.05:770][473]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.09.20-09.46.05:845][473]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Realtek(R) Audio)
+[2023.09.20-09.46.05:846][473]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.09.20-09.46.05:846][473]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.09.20-09.46.05:846][473]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.09.20-09.46.05:847][473]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=4
+[2023.09.20-09.46.05:847][473]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=8, Samples=8192, InstanceID=4
+[2023.09.20-09.46.05:849][473]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=4
+[2023.09.20-09.46.05:849][473]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=4
+[2023.09.20-09.46.05:849][473]LogInit: FAudioDevice initialized with ID 4.
+[2023.09.20-09.46.05:849][473]LogAudio: Display: Audio Device (ID: 4) registered with world 'Map_Team14'.
+[2023.09.20-09.46.05:849][473]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 4
+[2023.09.20-09.46.05:857][473]LogLoad: Game class is 'GM_Island_C'
+[2023.09.20-09.46.05:862][473]LogWorld: Bringing World /Game/_TinyIslands/Maps/Team14/UEDPIE_0_Map_Team14.Map_Team14 up for play (max tick rate 60) at 2023.09.20-11.46.05
+[2023.09.20-09.46.05:865][473]LogWorld: Bringing up level for play took: 0.007658
+[2023.09.20-09.46.05:868][473]LogOnline: OSS: Created online subsystem instance for: :Context_8
+[2023.09.20-09.46.05:871][473]LogWorldPartition: UWorldPartitionStreamingPolicy: CellsToActivate(5), CellsToLoad(0), CellsToUnload(0)
+[2023.09.20-09.46.05:872][473]LogWorldPartition: UWorldPartitionStreamingPolicy: Sources[0] = X=-2665.247 Y=403.909 Z=200.000,P=0.000000 Y=0.000000 R=-0.000000
+[2023.09.20-09.46.05:872][473]LogStreaming: Display: FlushAsyncLoading(-1): 8 QueuedPackages, 0 AsyncPackages
+[2023.09.20-09.46.05:951][473]PIE: Server logged in
+[2023.09.20-09.46.05:952][473]PIE: Play in editor total start time 0,247 seconds.
+[2023.09.20-09.46.05:966][473]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.09.20-09.46.05:967][473]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.09.20-09.46.05:967][473]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.09.20-09.46.05:968][473]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '/Memory/UEDPIE_0_Map_Team14_MainGrid_L0_X-1_Y0_InstanceOf_/Game/__ExternalActors__/_TinyIslands/Maps/Team14/Map_Team14/A/EL/1HIAJ59EG6TQIYN1M0M1SC' is in a memory-only mount point.
+[2023.09.20-09.46.05:969][473]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '/Memory/UEDPIE_0_Map_Team14_MainGrid_L0_X-1_Y0_InstanceOf_/Game/__ExternalActors__/_TinyIslands/Maps/Team14/Map_Team14/0/6L/JVN07WAAWDTN1PTCDMVZWJ' is in a memory-only mount point.
+[2023.09.20-09.46.05:970][473]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '/Memory/UEDPIE_0_Map_Team14_MainGrid_L0_X-1_Y0_InstanceOf_/Game/__ExternalActors__/_TinyIslands/Maps/Team14/Map_Team14/7/5N/PR1FFLG0V6828X4QSJGDF6' is in a memory-only mount point.
+[2023.09.20-09.46.05:970][473]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '/Memory/UEDPIE_0_Map_Team14_MainGrid_L0_X-1_Y0_InstanceOf_/Game/__ExternalActors__/_TinyIslands/Maps/Team14/Map_Team14/8/TP/J7REOMOIX1PI7920BJ7FPX' is in a memory-only mount point.
+[2023.09.20-09.46.05:971][473]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.09.20-09.46.05:971][473]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.09.20-09.46.05:972][473]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.09.20-09.46.05:972][473]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.09.20-09.46.05:973][473]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.09.20-09.46.05:973][473]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.09.20-09.46.05:974][473]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.09.20-09.46.05:974][473]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.09.20-09.46.05:975][473]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.09.20-09.46.05:975][473]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.09.20-09.46.06:091][474]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.09.20-09.46.06:091][474]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.09.20-09.46.06:092][474]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.09.20-09.46.06:092][474]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '/Memory/UEDPIE_0_Map_Team14_MainGrid_L0_X-1_Y0_InstanceOf_/Game/__ExternalActors__/_TinyIslands/Maps/Team14/Map_Team14/A/EL/1HIAJ59EG6TQIYN1M0M1SC' is in a memory-only mount point.
+[2023.09.20-09.46.06:093][474]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '/Memory/UEDPIE_0_Map_Team14_MainGrid_L0_X-1_Y0_InstanceOf_/Game/__ExternalActors__/_TinyIslands/Maps/Team14/Map_Team14/0/6L/JVN07WAAWDTN1PTCDMVZWJ' is in a memory-only mount point.
+[2023.09.20-09.46.06:093][474]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '/Memory/UEDPIE_0_Map_Team14_MainGrid_L0_X-1_Y0_InstanceOf_/Game/__ExternalActors__/_TinyIslands/Maps/Team14/Map_Team14/7/5N/PR1FFLG0V6828X4QSJGDF6' is in a memory-only mount point.
+[2023.09.20-09.46.06:094][474]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '/Memory/UEDPIE_0_Map_Team14_MainGrid_L0_X-1_Y0_InstanceOf_/Game/__ExternalActors__/_TinyIslands/Maps/Team14/Map_Team14/8/TP/J7REOMOIX1PI7920BJ7FPX' is in a memory-only mount point.
+[2023.09.20-09.46.06:094][474]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.09.20-09.46.06:095][474]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.09.20-09.46.06:095][474]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.09.20-09.46.06:096][474]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.09.20-09.46.06:096][474]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.09.20-09.46.06:097][474]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.09.20-09.46.06:097][474]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.09.20-09.46.06:097][474]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.09.20-09.46.06:098][474]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.09.20-09.46.06:098][474]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.09.20-09.46.56:025][464]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.09.20-09.46.56:025][464]LogWorld: BeginTearingDown for /Game/_TinyIslands/Maps/Team14/UEDPIE_0_Map_Team14
+[2023.09.20-09.46.56:030][464]LogWorld: UWorld::CleanupWorld for Map_Team14, bSessionEnded=true, bCleanupResources=true
+[2023.09.20-09.46.56:030][464]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.09.20-09.46.56:030][464]LogContentBundle: [Map_Team14(Standalone)] Deleting container.
+[2023.09.20-09.46.56:035][464]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.09.20-09.46.56:038][464]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.09.20-09.46.56:053][464]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.09.20-09.46.56:053][464]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 4
+[2023.09.20-09.46.56:053][464]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=4
+[2023.09.20-09.46.56:055][464]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=4
+[2023.09.20-09.46.56:076][464]LogUObjectHash: Compacting FUObjectHashTables data took   0.73ms
+[2023.09.20-09.46.56:101][464]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.09.20-09.46.56:134][465]LogPlayLevel: Display: Destroying online subsystem :Context_8
+[2023.09.20-09.46.56:147][465]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.09.20-09.47.06:740][671]Cmd: SELECT NONE
+[2023.09.20-09.47.11:713][960]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2023.09.20-09.47.16:603][248]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.09.20-09.47.16:698][248]LogUObjectHash: Compacting FUObjectHashTables data took   0.72ms
+[2023.09.20-09.47.16:713][248]LogUObjectHash: Compacting FUObjectHashTables data took   0.34ms
+[2023.09.20-09.47.16:727][248]LogUObjectHash: Compacting FUObjectHashTables data took   0.36ms
+[2023.09.20-09.47.16:740][248]LogFileHelpers: InternalPromptForCheckoutAndSave took 136 ms (total: 1.75 sec)
+[2023.09.20-09.47.50:150][608]LogUObjectHash: Compacting FUObjectHashTables data took   0.28ms
+[2023.09.20-09.47.50:151][608]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/_TinyIslands/Maps/Team14/Map_Team14' took 0.012
+[2023.09.20-09.47.50:151][608]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/_TinyIslands/Maps/Team14/_GENERATED/tomal/Boolean_07D64474] ([1] browsable assets)...
+[2023.09.20-09.47.50:172][608]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/_TinyIslands/Maps/Team14/_GENERATED/tomal/Boolean_07D64474.Boolean_07D64474]
+[2023.09.20-09.47.50:172][608]OBJ SavePackage: Finished generating thumbnails for package [/Game/_TinyIslands/Maps/Team14/_GENERATED/tomal/Boolean_07D64474]
+[2023.09.20-09.47.50:175][608]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/_TinyIslands/Maps/Team14/_GENERATED/tomal/Boolean_07D64474_Auto7
+[2023.09.20-09.47.50:175][608]LogSavePackage: Moving 'C:/Users/tomal/OneDrive/Bureau/Unreal/LD-WORKSHOP-M2/Saved/Boolean_07D64474_Auto73DE5336E42E20CF652018F8879AF36BF.tmp' to 'C:/Users/tomal/OneDrive/Bureau/Unreal/LD-WORKSHOP-M2/Saved/Autosaves/Game/_TinyIslands/Maps/Team14/_GENERATED/tomal/Boolean_07D64474_Auto7.uasset'
+[2023.09.20-09.47.50:176][608]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/_TinyIslands/Maps/Team14/_GENERATED/tomal/Cylinder_F429CF6C] ([1] browsable assets)...
+[2023.09.20-09.47.50:176][608]OBJ SavePackage: Finished generating thumbnails for package [/Game/_TinyIslands/Maps/Team14/_GENERATED/tomal/Cylinder_F429CF6C]
+[2023.09.20-09.47.50:178][608]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/_TinyIslands/Maps/Team14/_GENERATED/tomal/Cylinder_F429CF6C_Auto7
+[2023.09.20-09.47.50:178][608]LogSavePackage: Moving 'C:/Users/tomal/OneDrive/Bureau/Unreal/LD-WORKSHOP-M2/Saved/Cylinder_F429CF6C_Auto7BD67B3C1467C97C3B3C0BFA258148BFD.tmp' to 'C:/Users/tomal/OneDrive/Bureau/Unreal/LD-WORKSHOP-M2/Saved/Autosaves/Game/_TinyIslands/Maps/Team14/_GENERATED/tomal/Cylinder_F429CF6C_Auto7.uasset'
+[2023.09.20-09.47.50:178][608]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/_TinyIslands/Maps/Team14/_GENERATED/tomal/Cylinder_CutPart_35D2CA78] ([1] browsable assets)...
+[2023.09.20-09.47.50:179][608]OBJ SavePackage: Finished generating thumbnails for package [/Game/_TinyIslands/Maps/Team14/_GENERATED/tomal/Cylinder_CutPart_35D2CA78]
+[2023.09.20-09.47.50:180][608]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/_TinyIslands/Maps/Team14/_GENERATED/tomal/Cylinder_CutPart_35D2CA78_Auto7
+[2023.09.20-09.47.50:180][608]LogSavePackage: Moving 'C:/Users/tomal/OneDrive/Bureau/Unreal/LD-WORKSHOP-M2/Saved/Cylinder_CutPart_35D2CA78_Auto7A52962F3464C4E13758D14BB9A3C32E1.tmp' to 'C:/Users/tomal/OneDrive/Bureau/Unreal/LD-WORKSHOP-M2/Saved/Autosaves/Game/_TinyIslands/Maps/Team14/_GENERATED/tomal/Cylinder_CutPart_35D2CA78_Auto7.uasset'
+[2023.09.20-09.47.50:181][608]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/_TinyIslands/Maps/Team14/_GENERATED/tomal/Cylinder_CutPart_3B780B5D] ([1] browsable assets)...
+[2023.09.20-09.47.50:181][608]OBJ SavePackage: Finished generating thumbnails for package [/Game/_TinyIslands/Maps/Team14/_GENERATED/tomal/Cylinder_CutPart_3B780B5D]
+[2023.09.20-09.47.50:182][608]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/_TinyIslands/Maps/Team14/_GENERATED/tomal/Cylinder_CutPart_3B780B5D_Auto7
+[2023.09.20-09.47.50:182][608]LogSavePackage: Moving 'C:/Users/tomal/OneDrive/Bureau/Unreal/LD-WORKSHOP-M2/Saved/Cylinder_CutPart_3B780B5D_Auto7EC27F5784C5990499C8A108E51A25D77.tmp' to 'C:/Users/tomal/OneDrive/Bureau/Unreal/LD-WORKSHOP-M2/Saved/Autosaves/Game/_TinyIslands/Maps/Team14/_GENERATED/tomal/Cylinder_CutPart_3B780B5D_Auto7.uasset'
+[2023.09.20-09.47.50:183][608]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/_TinyIslands/Maps/Team14/_GENERATED/tomal/Cylinder_CutPart_42C9B540] ([1] browsable assets)...
+[2023.09.20-09.47.50:183][608]OBJ SavePackage: Finished generating thumbnails for package [/Game/_TinyIslands/Maps/Team14/_GENERATED/tomal/Cylinder_CutPart_42C9B540]
+[2023.09.20-09.47.50:186][608]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/_TinyIslands/Maps/Team14/_GENERATED/tomal/Cylinder_CutPart_42C9B540_Auto7
+[2023.09.20-09.47.50:186][608]LogSavePackage: Moving 'C:/Users/tomal/OneDrive/Bureau/Unreal/LD-WORKSHOP-M2/Saved/Cylinder_CutPart_42C9B540_Auto7CB60B16147FA0A644EA152B5D2F8C2F9.tmp' to 'C:/Users/tomal/OneDrive/Bureau/Unreal/LD-WORKSHOP-M2/Saved/Autosaves/Game/_TinyIslands/Maps/Team14/_GENERATED/tomal/Cylinder_CutPart_42C9B540_Auto7.uasset'
+[2023.09.20-09.47.50:186][608]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/_TinyIslands/Maps/Team14/_GENERATED/tomal/Cylinder_7116DF1B] ([1] browsable assets)...
+[2023.09.20-09.47.50:186][608]OBJ SavePackage: Finished generating thumbnails for package [/Game/_TinyIslands/Maps/Team14/_GENERATED/tomal/Cylinder_7116DF1B]
+[2023.09.20-09.47.50:188][608]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/_TinyIslands/Maps/Team14/_GENERATED/tomal/Cylinder_7116DF1B_Auto7
+[2023.09.20-09.47.50:188][608]LogSavePackage: Moving 'C:/Users/tomal/OneDrive/Bureau/Unreal/LD-WORKSHOP-M2/Saved/Cylinder_7116DF1B_Auto796933FA04044695EA77247A8E2BC8176.tmp' to 'C:/Users/tomal/OneDrive/Bureau/Unreal/LD-WORKSHOP-M2/Saved/Autosaves/Game/_TinyIslands/Maps/Team14/_GENERATED/tomal/Cylinder_7116DF1B_Auto7.uasset'
+[2023.09.20-09.47.50:189][608]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/_TinyIslands/Maps/Team14/_GENERATED/tomal/Cylinder_EC3C05F4] ([1] browsable assets)...
+[2023.09.20-09.47.50:189][608]OBJ SavePackage: Finished generating thumbnails for package [/Game/_TinyIslands/Maps/Team14/_GENERATED/tomal/Cylinder_EC3C05F4]
+[2023.09.20-09.47.50:191][608]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/_TinyIslands/Maps/Team14/_GENERATED/tomal/Cylinder_EC3C05F4_Auto7
+[2023.09.20-09.47.50:191][608]LogSavePackage: Moving 'C:/Users/tomal/OneDrive/Bureau/Unreal/LD-WORKSHOP-M2/Saved/Cylinder_EC3C05F4_Auto7E6B5CF6642437E208192E4B5CA5A3858.tmp' to 'C:/Users/tomal/OneDrive/Bureau/Unreal/LD-WORKSHOP-M2/Saved/Autosaves/Game/_TinyIslands/Maps/Team14/_GENERATED/tomal/Cylinder_EC3C05F4_Auto7.uasset'
+[2023.09.20-09.47.50:191][608]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/_TinyIslands/Maps/Team14/_GENERATED/tomal/Cylinder_2045A143] ([1] browsable assets)...
+[2023.09.20-09.47.50:191][608]OBJ SavePackage: Finished generating thumbnails for package [/Game/_TinyIslands/Maps/Team14/_GENERATED/tomal/Cylinder_2045A143]
+[2023.09.20-09.47.50:193][608]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/_TinyIslands/Maps/Team14/_GENERATED/tomal/Cylinder_2045A143_Auto7
+[2023.09.20-09.47.50:193][608]LogSavePackage: Moving 'C:/Users/tomal/OneDrive/Bureau/Unreal/LD-WORKSHOP-M2/Saved/Cylinder_2045A143_Auto7C39C84184A13C625E84E51ABF80FB5C3.tmp' to 'C:/Users/tomal/OneDrive/Bureau/Unreal/LD-WORKSHOP-M2/Saved/Autosaves/Game/_TinyIslands/Maps/Team14/_GENERATED/tomal/Cylinder_2045A143_Auto7.uasset'
+[2023.09.20-09.47.50:194][608]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/_TinyIslands/Maps/Team14/_GENERATED/tomal/Boolean_CutPart_0CE3D918] ([1] browsable assets)...
+[2023.09.20-09.47.50:202][608]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/_TinyIslands/Maps/Team14/_GENERATED/tomal/Boolean_CutPart_0CE3D918.Boolean_CutPart_0CE3D918]
+[2023.09.20-09.47.50:202][608]OBJ SavePackage: Finished generating thumbnails for package [/Game/_TinyIslands/Maps/Team14/_GENERATED/tomal/Boolean_CutPart_0CE3D918]
+[2023.09.20-09.47.50:204][608]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/_TinyIslands/Maps/Team14/_GENERATED/tomal/Boolean_CutPart_0CE3D918_Auto7
+[2023.09.20-09.47.50:204][608]LogSavePackage: Moving 'C:/Users/tomal/OneDrive/Bureau/Unreal/LD-WORKSHOP-M2/Saved/Boolean_CutPart_0CE3D918_Auto7BE01B6364CF4E829C8753C9DAF5E82AC.tmp' to 'C:/Users/tomal/OneDrive/Bureau/Unreal/LD-WORKSHOP-M2/Saved/Autosaves/Game/_TinyIslands/Maps/Team14/_GENERATED/tomal/Boolean_CutPart_0CE3D918_Auto7.uasset'
+[2023.09.20-09.47.50:205][608]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/_TinyIslands/Maps/Team14/_GENERATED/tomal/Sphere_5FC4203F] ([1] browsable assets)...
+[2023.09.20-09.47.50:205][608]OBJ SavePackage: Finished generating thumbnails for package [/Game/_TinyIslands/Maps/Team14/_GENERATED/tomal/Sphere_5FC4203F]
+[2023.09.20-09.47.50:209][608]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/_TinyIslands/Maps/Team14/_GENERATED/tomal/Sphere_5FC4203F_Auto7
+[2023.09.20-09.47.50:210][608]LogSavePackage: Moving 'C:/Users/tomal/OneDrive/Bureau/Unreal/LD-WORKSHOP-M2/Saved/Sphere_5FC4203F_Auto78D5DF0CC4819DDA72B84FF9096DDC6CB.tmp' to 'C:/Users/tomal/OneDrive/Bureau/Unreal/LD-WORKSHOP-M2/Saved/Autosaves/Game/_TinyIslands/Maps/Team14/_GENERATED/tomal/Sphere_5FC4203F_Auto7.uasset'
+[2023.09.20-09.47.50:210][608]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/_TinyIslands/Maps/Team14/_GENERATED/tomal/Box_B18D729F] ([1] browsable assets)...
+[2023.09.20-09.47.50:210][608]OBJ SavePackage: Finished generating thumbnails for package [/Game/_TinyIslands/Maps/Team14/_GENERATED/tomal/Box_B18D729F]
+[2023.09.20-09.47.50:213][608]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/_TinyIslands/Maps/Team14/_GENERATED/tomal/Box_B18D729F_Auto7
+[2023.09.20-09.47.50:213][608]LogSavePackage: Moving 'C:/Users/tomal/OneDrive/Bureau/Unreal/LD-WORKSHOP-M2/Saved/Box_B18D729F_Auto7CA77CCB045E0BF648ECB0883D0404FFF.tmp' to 'C:/Users/tomal/OneDrive/Bureau/Unreal/LD-WORKSHOP-M2/Saved/Autosaves/Game/_TinyIslands/Maps/Team14/_GENERATED/tomal/Box_B18D729F_Auto7.uasset'
+[2023.09.20-09.47.50:213][608]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/_TinyIslands/Maps/Team14/_GENERATED/tomal/Box_CutPart_B039F928] ([1] browsable assets)...
+[2023.09.20-09.47.50:213][608]OBJ SavePackage: Finished generating thumbnails for package [/Game/_TinyIslands/Maps/Team14/_GENERATED/tomal/Box_CutPart_B039F928]
+[2023.09.20-09.47.50:215][608]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/_TinyIslands/Maps/Team14/_GENERATED/tomal/Box_CutPart_B039F928_Auto7
+[2023.09.20-09.47.50:215][608]LogSavePackage: Moving 'C:/Users/tomal/OneDrive/Bureau/Unreal/LD-WORKSHOP-M2/Saved/Box_CutPart_B039F928_Auto7623B6564410F0C80B35A368BE9C759E8.tmp' to 'C:/Users/tomal/OneDrive/Bureau/Unreal/LD-WORKSHOP-M2/Saved/Autosaves/Game/_TinyIslands/Maps/Team14/_GENERATED/tomal/Box_CutPart_B039F928_Auto7.uasset'
+[2023.09.20-09.47.50:216][608]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/_TinyIslands/Maps/Team14/_GENERATED/tomal/Box_28FCE100] ([1] browsable assets)...
+[2023.09.20-09.47.50:224][608]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/_TinyIslands/Maps/Team14/_GENERATED/tomal/Box_28FCE100.Box_28FCE100]
+[2023.09.20-09.47.50:224][608]OBJ SavePackage: Finished generating thumbnails for package [/Game/_TinyIslands/Maps/Team14/_GENERATED/tomal/Box_28FCE100]
+[2023.09.20-09.47.50:226][608]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/_TinyIslands/Maps/Team14/_GENERATED/tomal/Box_28FCE100_Auto7
+[2023.09.20-09.47.50:226][608]LogSavePackage: Moving 'C:/Users/tomal/OneDrive/Bureau/Unreal/LD-WORKSHOP-M2/Saved/Box_28FCE100_Auto79B8E1B2943B5F6288B1DC2A0AC852245.tmp' to 'C:/Users/tomal/OneDrive/Bureau/Unreal/LD-WORKSHOP-M2/Saved/Autosaves/Game/_TinyIslands/Maps/Team14/_GENERATED/tomal/Box_28FCE100_Auto7.uasset'
+[2023.09.20-09.47.50:227][608]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/_TinyIslands/Maps/Team14/_GENERATED/tomal/Box_CutPart_405B34F4] ([1] browsable assets)...
+[2023.09.20-09.47.50:227][608]OBJ SavePackage: Finished generating thumbnails for package [/Game/_TinyIslands/Maps/Team14/_GENERATED/tomal/Box_CutPart_405B34F4]
+[2023.09.20-09.47.50:229][608]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/_TinyIslands/Maps/Team14/_GENERATED/tomal/Box_CutPart_405B34F4_Auto7
+[2023.09.20-09.47.50:229][608]LogSavePackage: Moving 'C:/Users/tomal/OneDrive/Bureau/Unreal/LD-WORKSHOP-M2/Saved/Box_CutPart_405B34F4_Auto71F69BBC14C3ADB7FF78B6D9EEF5A4775.tmp' to 'C:/Users/tomal/OneDrive/Bureau/Unreal/LD-WORKSHOP-M2/Saved/Autosaves/Game/_TinyIslands/Maps/Team14/_GENERATED/tomal/Box_CutPart_405B34F4_Auto7.uasset'
+[2023.09.20-09.47.50:230][608]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/_TinyIslands/Maps/Team14/_GENERATED/tomal/Stairs_6FDE794C] ([1] browsable assets)...
+[2023.09.20-09.47.50:237][608]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/_TinyIslands/Maps/Team14/_GENERATED/tomal/Stairs_6FDE794C.Stairs_6FDE794C]
+[2023.09.20-09.47.50:237][608]OBJ SavePackage: Finished generating thumbnails for package [/Game/_TinyIslands/Maps/Team14/_GENERATED/tomal/Stairs_6FDE794C]
+[2023.09.20-09.47.50:240][608]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/_TinyIslands/Maps/Team14/_GENERATED/tomal/Stairs_6FDE794C_Auto7
+[2023.09.20-09.47.50:240][608]LogSavePackage: Moving 'C:/Users/tomal/OneDrive/Bureau/Unreal/LD-WORKSHOP-M2/Saved/Stairs_6FDE794C_Auto70655621A4CE079A1DDC21FA10485EDC4.tmp' to 'C:/Users/tomal/OneDrive/Bureau/Unreal/LD-WORKSHOP-M2/Saved/Autosaves/Game/_TinyIslands/Maps/Team14/_GENERATED/tomal/Stairs_6FDE794C_Auto7.uasset'
+[2023.09.20-09.47.50:241][608]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/_TinyIslands/Maps/Team14/_GENERATED/tomal/Stairs_1A0807C1] ([1] browsable assets)...
+[2023.09.20-09.47.50:248][608]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/_TinyIslands/Maps/Team14/_GENERATED/tomal/Stairs_1A0807C1.Stairs_1A0807C1]
+[2023.09.20-09.47.50:248][608]OBJ SavePackage: Finished generating thumbnails for package [/Game/_TinyIslands/Maps/Team14/_GENERATED/tomal/Stairs_1A0807C1]
+[2023.09.20-09.47.50:250][608]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/_TinyIslands/Maps/Team14/_GENERATED/tomal/Stairs_1A0807C1_Auto7
+[2023.09.20-09.47.50:251][608]LogSavePackage: Moving 'C:/Users/tomal/OneDrive/Bureau/Unreal/LD-WORKSHOP-M2/Saved/Stairs_1A0807C1_Auto77C6BAFFF4AB80CD289DC5FAD16F3599C.tmp' to 'C:/Users/tomal/OneDrive/Bureau/Unreal/LD-WORKSHOP-M2/Saved/Autosaves/Game/_TinyIslands/Maps/Team14/_GENERATED/tomal/Stairs_1A0807C1_Auto7.uasset'
+[2023.09.20-09.47.50:251][608]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/_TinyIslands/Maps/Team14/_GENERATED/tomal/Box_C943EB91] ([1] browsable assets)...
+[2023.09.20-09.47.50:259][608]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/_TinyIslands/Maps/Team14/_GENERATED/tomal/Box_C943EB91.Box_C943EB91]
+[2023.09.20-09.47.50:259][608]OBJ SavePackage: Finished generating thumbnails for package [/Game/_TinyIslands/Maps/Team14/_GENERATED/tomal/Box_C943EB91]
+[2023.09.20-09.47.50:262][608]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/_TinyIslands/Maps/Team14/_GENERATED/tomal/Box_C943EB91_Auto7
+[2023.09.20-09.47.50:262][608]LogSavePackage: Moving 'C:/Users/tomal/OneDrive/Bureau/Unreal/LD-WORKSHOP-M2/Saved/Box_C943EB91_Auto7B8838C81481A5470F46EB5BA28BDD9ED.tmp' to 'C:/Users/tomal/OneDrive/Bureau/Unreal/LD-WORKSHOP-M2/Saved/Autosaves/Game/_TinyIslands/Maps/Team14/_GENERATED/tomal/Box_C943EB91_Auto7.uasset'
+[2023.09.20-09.47.50:263][608]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/_TinyIslands/Maps/Team14/_GENERATED/tomal/Stairs_5B3F8C73] ([1] browsable assets)...
+[2023.09.20-09.47.50:273][608]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/_TinyIslands/Maps/Team14/_GENERATED/tomal/Stairs_5B3F8C73.Stairs_5B3F8C73]
+[2023.09.20-09.47.50:273][608]OBJ SavePackage: Finished generating thumbnails for package [/Game/_TinyIslands/Maps/Team14/_GENERATED/tomal/Stairs_5B3F8C73]
+[2023.09.20-09.47.50:282][608]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/_TinyIslands/Maps/Team14/_GENERATED/tomal/Stairs_5B3F8C73_Auto7
+[2023.09.20-09.47.50:282][608]LogSavePackage: Moving 'C:/Users/tomal/OneDrive/Bureau/Unreal/LD-WORKSHOP-M2/Saved/Stairs_5B3F8C73_Auto7675C37744AE9D643F4FA399D2DAFCA06.tmp' to 'C:/Users/tomal/OneDrive/Bureau/Unreal/LD-WORKSHOP-M2/Saved/Autosaves/Game/_TinyIslands/Maps/Team14/_GENERATED/tomal/Stairs_5B3F8C73_Auto7.uasset'
+[2023.09.20-09.47.50:283][608]LogFileHelpers: Auto-saving content packages took 0.132
+[2023.09.20-09.48.01:963][161]LogEditorTransaction: Non zero active count in UTransBuffer::Reset
+ActiveCount : 1
+SessionName : 
+Reason      : Editor Actors Unloaded
+
+Purging the undo buffer...
+
+[2023.09.20-09.48.01:987][161]LogWorldPartition: Actor /Game/_TinyIslands/Maps/Team14/Map_Team14.Map_Team14:PersistentLevel.StaticMeshActor_UAID_04D4C47697B600AB01_1333835774 is unreachable without properly detaching object /Game/__ExternalActors__/_TinyIslands/Maps/Team14/Map_Team14/C/WE/WTDNULMRW5II52BET0ZBJF.PackageMetaData in its package
+[2023.09.20-09.48.01:987][161]LogWorldPartition: Actor /Game/_TinyIslands/Maps/Team14/Map_Team14.Map_Team14:PersistentLevel.StaticMeshActor_UAID_04D4C47697B600AB01_1078848773 is unreachable without properly detaching object /Game/__ExternalActors__/_TinyIslands/Maps/Team14/Map_Team14/7/EU/LIIUZ2XJVEY2WP0S8DCYNX.PackageMetaData in its package
+[2023.09.20-09.48.01:987][161]LogWorldPartition: Actor /Game/_TinyIslands/Maps/Team14/Map_Team14.Map_Team14:PersistentLevel.StaticMeshActor_UAID_04D4C47697B6FFAA01_2098158596 is unreachable without properly detaching object /Game/__ExternalActors__/_TinyIslands/Maps/Team14/Map_Team14/3/0K/DJ84MB3R4KL8DMZ2NAYUUM.PackageMetaData in its package
+[2023.09.20-09.48.01:987][161]LogWorldPartition: Actor /Game/_TinyIslands/Maps/Team14/Map_Team14.Map_Team14:PersistentLevel.StaticMeshActor_UAID_04D4C47697B6FFAA01_2098156595 is unreachable without properly detaching object /Game/__ExternalActors__/_TinyIslands/Maps/Team14/Map_Team14/A/FW/P86OUGJQ9A1HTXGSM6UKS3.PackageMetaData in its package
+[2023.09.20-09.48.01:987][161]LogWorldPartition: Actor /Game/_TinyIslands/Maps/Team14/Map_Team14.Map_Team14:PersistentLevel.StaticMeshActor_UAID_04D4C47697B6FFAA01_1906532593 is unreachable without properly detaching object /Game/__ExternalActors__/_TinyIslands/Maps/Team14/Map_Team14/8/LK/ZBI8G0X3PYTY2N145S1CMC.PackageMetaData in its package
+[2023.09.20-09.48.01:987][161]LogWorldPartition: Actor /Game/_TinyIslands/Maps/Team14/Map_Team14.Map_Team14:PersistentLevel.StaticMeshActor_UAID_04D4C47697B6FFAA01_1850424592 is unreachable without properly detaching object /Game/__ExternalActors__/_TinyIslands/Maps/Team14/Map_Team14/6/71/2WTYIO68KDR6ASGH62NDVU.PackageMetaData in its package
+[2023.09.20-09.48.01:988][161]LogUObjectHash: Compacting FUObjectHashTables data took   0.53ms
+[2023.09.20-09.48.01:997][161]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.09.20-09.48.02:025][162]LogUObjectHash: Compacting FUObjectHashTables data took   0.67ms
+[2023.09.20-09.48.02:938][211]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
