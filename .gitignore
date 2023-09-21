@@ -72,4 +72,3 @@ LD_IMPLEMENTATION/Plugins/*/Intermediate/*
 
 # Cache files for the editor to use
 LD_IMPLEMENTATION/DerivedDataCache/*
-Saved/Logs/LD_IMPLEMENTATION.log
