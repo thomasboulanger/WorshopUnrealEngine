@@ -2958,3 +2958,25 @@ Purging the undo buffer...
 [2023.09.21-08.43.18:065][249]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/_TinyIslands/Actors/Ingredients/ING_Spawner_Throw_Auto3
 [2023.09.21-08.43.18:065][249]LogSavePackage: Moving 'C:/Users/tomal/OneDrive/Bureau/Unreal/LD-WORKSHOP-M2/Saved/ING_Spawner_Throw_Auto3BB414F3D4F7E08C64804138FF908849F.tmp' to 'C:/Users/tomal/OneDrive/Bureau/Unreal/LD-WORKSHOP-M2/Saved/Autosaves/Game/_TinyIslands/Actors/Ingredients/ING_Spawner_Throw_Auto3.uasset'
 [2023.09.21-08.43.18:065][249]LogFileHelpers: Auto-saving content packages took 0.010
+[2023.09.21-08.43.49:840][480]LogUObjectHash: Compacting FUObjectHashTables data took   0.51ms
+[2023.09.21-08.43.49:843][480]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.09.21-08.43.49:917][480]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/_TinyIslands/Maps/Team14/Map_Team14/8/IR/7RCW3OO961NQZ76R4GNQXH
+[2023.09.21-08.43.49:918][480]LogSavePackage: Moving 'C:/Users/tomal/OneDrive/Bureau/Unreal/LD-WORKSHOP-M2/Saved/7RCW3OO961NQZ76R4GNQXH78CC1DD24AF2C947BBE5559315A9AB68.tmp' to 'C:/Users/tomal/OneDrive/Bureau/Unreal/LD-WORKSHOP-M2/Content/__ExternalActors__/_TinyIslands/Maps/Team14/Map_Team14/8/IR/7RCW3OO961NQZ76R4GNQXH.uasset'
+[2023.09.21-08.43.49:928][480]LogSavePackage: Moving output files for package: /Game/_TinyIslands/Actors/Ingredients/ING_Spawner_Throw
+[2023.09.21-08.43.49:928][480]LogSavePackage: Moving 'C:/Users/tomal/OneDrive/Bureau/Unreal/LD-WORKSHOP-M2/Saved/ING_Spawner_ThrowAD3FFE16487F294D0404FFBEBEF40128.tmp' to 'C:/Users/tomal/OneDrive/Bureau/Unreal/LD-WORKSHOP-M2/Content/_TinyIslands/Actors/Ingredients/ING_Spawner_Throw.uasset'
+[2023.09.21-08.43.49:938][480]LogFileHelpers: InternalPromptForCheckoutAndSave took 95 ms (total: 1.23 sec)
+[2023.09.21-08.43.49:944][480]AssetCheck: New page: Asset Save: multiple assets
+[2023.09.21-08.43.49:944][480]LogContentValidation: Display: Validating /Game/_TinyIslands/Actors/Ingredients/ING_Gong.ING_Gong_C /Game/_TinyIslands/Maps/Team14/Map_Team14.Map_Team14:PersistentLevel.ING_Gong_C_UAID_04D4C47697B610AB01_2015666673
+[2023.09.21-08.43.49:944][480]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/_TinyIslands/Actors/Ingredients/ING_Spawner_Throw.ING_Spawner_Throw
+[2023.09.21-08.43.49:974][480]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.09.21-08.43.53:528][693]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.09.21-08.43.53:626][693]LogUObjectHash: Compacting FUObjectHashTables data took   0.59ms
+[2023.09.21-08.43.53:653][693]LogUObjectHash: Compacting FUObjectHashTables data took   0.59ms
+[2023.09.21-08.43.53:678][693]LogUObjectHash: Compacting FUObjectHashTables data took   0.64ms
+[2023.09.21-08.43.53:687][693]LogFileHelpers: InternalPromptForCheckoutAndSave took 158 ms (total: 1.39 sec)
+[2023.09.21-08.43.53:866][704]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.09.21-08.43.53:974][704]LogUObjectHash: Compacting FUObjectHashTables data took   0.55ms
+[2023.09.21-08.43.54:000][704]LogUObjectHash: Compacting FUObjectHashTables data took   0.53ms
+[2023.09.21-08.43.54:025][704]LogUObjectHash: Compacting FUObjectHashTables data took   0.52ms
+[2023.09.21-08.43.54:034][704]LogFileHelpers: InternalPromptForCheckoutAndSave took 167 ms (total: 1.55 sec)
+[2023.09.21-08.43.57:708][811]LogUObjectHash: Compacting FUObjectHashTables data took   1.35ms
