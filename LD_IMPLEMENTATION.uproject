@@ -37,6 +37,14 @@
 			"Name": "FileHelper",
 			"Enabled": true,
 			"MarketplaceURL": "com.epicgames.launcher://ue/marketplace/product/bec5be3d587f4ff49a61d45d0e81e4c0"
+		},
+		{
+			"Name": "PCG",
+			"Enabled": true
+		},
+		{
+			"Name": "PCGGeometryScriptInterop",
+			"Enabled": true
 		}
 	],
 	"TargetPlatforms": [
