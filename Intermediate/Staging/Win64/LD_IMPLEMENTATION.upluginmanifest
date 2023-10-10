@@ -1566,6 +1566,47 @@
 			}
 		},
 		{
+			"File": "../../../Engine/Plugins/Experimental/GeometryScripting/GeometryScripting.uplugin",
+			"Descriptor": 
+			{
+				"FileVersion": 3,
+				"Version": 1,
+				"VersionName": "0.1",
+				"FriendlyName": "Geometry Script",
+				"Description": "Geometry Script provides a library of functions for creating and editing Meshes in Blueprints and Python",
+				"Category": "Geometry",
+				"CreatedBy": "Epic Games, Inc.",
+				"CreatedByURL": "https://epicgames.com",
+				"DocsURL": "",
+				"MarketplaceURL": "",
+				"SupportURL": "",
+				"CanContainContent": true,
+				"IsExperimentalVersion": true,
+				"Modules": [
+					{
+						"Name": "GeometryScriptingCore",
+						"Type": "Runtime",
+						"LoadingPhase": "PreDefault"
+					},
+					{
+						"Name": "GeometryScriptingEditor",
+						"Type": "Editor",
+						"LoadingPhase": "Default"
+					}
+				],
+				"Plugins": [
+					{
+						"Name": "GeometryProcessing",
+						"Enabled": true
+					},
+					{
+						"Name": "MeshModelingToolset",
+						"Enabled": true
+					}
+				]
+			}
+		},
+		{
 			"File": "../../../Engine/Plugins/Experimental/Landmass/Landmass.uplugin",
 			"Descriptor": 
 			{
@@ -1621,6 +1662,87 @@
 						"PlatformAllowList": [
 							"Win64"
 						]
+					}
+				]
+			}
+		},
+		{
+			"File": "../../../Engine/Plugins/Experimental/PCGGeometryScriptInterop/PCGGeometryScriptInterop.uplugin",
+			"Descriptor": 
+			{
+				"FileVersion": 3,
+				"Version": 1,
+				"VersionName": "0.1",
+				"FriendlyName": "Procedural Content Generation Framework Geometry Script Interop",
+				"Description": "Extra plugin for Procedural Content Generation Framework interacting with Geometry Scripts.",
+				"Category": "Editor",
+				"CreatedBy": "Epic Games, Inc.",
+				"CreatedByURL": "https://epicgames.com",
+				"DocsURL": "",
+				"MarketplaceURL": "",
+				"SupportURL": "",
+				"EnabledByDefault": false,
+				"CanContainContent": true,
+				"Modules": [
+					{
+						"Name": "PCGGeometryScriptInterop",
+						"Type": "Runtime",
+						"LoadingPhase": "Default"
+					}
+				],
+				"Plugins": [
+					{
+						"Name": "PCG",
+						"Enabled": true
+					},
+					{
+						"Name": "GeometryScripting",
+						"Enabled": true
+					}
+				]
+			}
+		},
+		{
+			"File": "../../../Engine/Plugins/Experimental/PCG/PCG.uplugin",
+			"Descriptor": 
+			{
+				"FileVersion": 3,
+				"Version": 8,
+				"VersionName": "0.1",
+				"FriendlyName": "Procedural Content Generation Framework",
+				"Description": "Visual scripting framework for procedurally populating worlds with content in editor and/or at run-time.",
+				"Category": "Editor",
+				"CreatedBy": "Epic Games, Inc.",
+				"CreatedByURL": "https://epicgames.com",
+				"DocsURL": "",
+				"MarketplaceURL": "",
+				"SupportURL": "",
+				"EnabledByDefault": false,
+				"CanContainContent": true,
+				"Modules": [
+					{
+						"Name": "PCG",
+						"Type": "Runtime",
+						"LoadingPhase": "Default"
+					},
+					{
+						"Name": "PCGEditor",
+						"Type": "Editor",
+						"LoadingPhase": "Default"
+					}
+				],
+				"Plugins": [
+					{
+						"Name": "GeometryScripting",
+						"Enabled": true
+					},
+					{
+						"Name": "EditorScriptingUtilities",
+						"Enabled": true
+					},
+					{
+						"Name": "StructUtils",
+						"Enabled": true
 					}
 				]
 			}
@@ -1734,6 +1856,36 @@
 			}
 		},
 		{
+			"File": "../../../Engine/Plugins/Experimental/ProxyLODPlugin/ProxyLODPlugin.uplugin",
+			"Descriptor": 
+			{
+				"FileVersion": 3,
+				"Version": 1,
+				"VersionName": "0.1",
+				"FriendlyName": "Proxy LOD Plugin (Experimental)",
+				"Description": "A plugin to generate Proxy LOD systems.",
+				"Category": "Editor",
+				"CreatedBy": "Epic Games, Inc.",
+				"CreatedByURL": "https://epicgames.com",
+				"DocsURL": "",
+				"MarketplaceURL": "",
+				"SupportURL": "",
+				"EnabledByDefault": false,
+				"CanContainContent": false,
+				"IsBetaVersion": true,
+				"Modules": [
+					{
+						"Name": "ProxyLODMeshReduction",
+						"Type": "Editor",
+						"LoadingPhase": "Default",
+						"PlatformAllowList": [
+							"Win64"
+						]
+					}
+				]
+			}
+		},
+		{
 			"File": "../../../Engine/Plugins/Experimental/PythonScriptPlugin/PythonScriptPlugin.uplugin",
 			"Descriptor": 
 			{
@@ -1770,6 +1922,54 @@
 						"TargetAllowList": [
 							"Editor"
 						]
+					}
+				]
+			}
+		},
+		{
+			"File": "../../../Engine/Plugins/Experimental/StructUtils/StructUtils.uplugin",
+			"Descriptor": 
+			{
+				"FileVersion": 3,
+				"Version": 1,
+				"VersionName": "0.1",
+				"FriendlyName": "Struct Utils",
+				"Description": "Experimental Struct Utilities supplying InstancedStruct type",
+				"Category": "Gameplay",
+				"CreatedBy": "Epic Games, Inc.",
+				"CreatedByURL": "https://epicgames.com",
+				"DocsURL": "",
+				"MarketplaceURL": "",
+				"SupportURL": "",
+				"EnabledByDefault": false,
+				"CanContainContent": false,
+				"IsExperimentalVersion": true,
+				"Modules": [
+					{
+						"Name": "StructUtils",
+						"Type": "Runtime",
+						"LoadingPhase": "PreDefault"
+					},
+					{
+						"Name": "StructUtilsEditor",
+						"Type": "Editor",
+						"LoadingPhase": "Default"
+					},
+					{
+						"Name": "StructUtilsNodes",
+						"Type": "UncookedOnly",
+						"LoadingPhase": "Default"
+					},
+					{
+						"Name": "StructUtilsTestSuite",
+						"Type": "UncookedOnly",
+						"LoadingPhase": "Default"
+					}
+				],
+				"Plugins": [
+					{
+						"Name": "PropertyAccessEditor",
+						"Enabled": true
 					}
 				]
 			}
@@ -3561,6 +3761,67 @@
 						"Name": "LocationServicesBPLibrary",
 						"Type": "Runtime",
 						"LoadingPhase": "PreDefault"
+					}
+				]
+			}
+		},
+		{
+			"File": "../../../Engine/Plugins/Runtime/MeshModelingToolset/MeshModelingToolset.uplugin",
+			"Descriptor": 
+			{
+				"FileVersion": 3,
+				"Version": 1,
+				"VersionName": "0.1",
+				"FriendlyName": "Mesh Modeling Toolset",
+				"Description": "A set of modules implementing 3D mesh creation and editing based on the Interactive Tools Framework",
+				"Category": "Other",
+				"CreatedBy": "Epic Games, Inc.",
+				"CreatedByURL": "https://epicgames.com",
+				"DocsURL": "",
+				"MarketplaceURL": "",
+				"SupportURL": "",
+				"CanContainContent": true,
+				"IsBetaVersion": true,
+				"Modules": [
+					{
+						"Name": "MeshModelingTools",
+						"Type": "Runtime",
+						"LoadingPhase": "Default"
+					},
+					{
+						"Name": "MeshModelingToolsEditorOnly",
+						"Type": "Editor",
+						"LoadingPhase": "Default"
+					},
+					{
+						"Name": "ModelingComponents",
+						"Type": "Runtime",
+						"LoadingPhase": "Default"
+					},
+					{
+						"Name": "ModelingComponentsEditorOnly",
+						"Type": "Editor",
+						"LoadingPhase": "Default"
+					},
+					{
+						"Name": "ModelingOperators",
+						"Type": "Runtime",
+						"LoadingPhase": "Default"
+					},
+					{
+						"Name": "ModelingOperatorsEditorOnly",
+						"Type": "Editor",
+						"LoadingPhase": "Default"
+					}
+				],
+				"Plugins": [
+					{
+						"Name": "GeometryProcessing",
+						"Enabled": true
+					},
+					{
+						"Name": "ProxyLODPlugin",
+						"Enabled": true
 					}
 				]
 			}
