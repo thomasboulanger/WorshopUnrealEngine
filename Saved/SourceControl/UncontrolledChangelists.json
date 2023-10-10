@@ -5,24 +5,8 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
-<<<<<<< HEAD
-				"D:/Enjmin/enjmin_2023-2024/atelier_unreal/workshop_ld/WorshopUnrealEngine/Content/__ExternalActors__/_TinyIslands/Maps/Team14/Map_Team14/3/KH/9ZDQP9OMT4RQCYVIAL02VH.uasset",
-				"D:/Enjmin/enjmin_2023-2024/atelier_unreal/workshop_ld/WorshopUnrealEngine/Content/__ExternalActors__/_TinyIslands/Maps/Team14/Map_Team14/1/QT/X7GXX9T5UMR16BS7CBRJ2P.uasset",
-				"D:/Enjmin/enjmin_2023-2024/atelier_unreal/workshop_ld/WorshopUnrealEngine/Content/__ExternalActors__/_TinyIslands/Maps/Team14/Map_Team14/2/5S/7FT3TPP4EKMG340VC1S490.uasset",
-				"D:/Enjmin/enjmin_2023-2024/atelier_unreal/workshop_ld/WorshopUnrealEngine/Content/__ExternalActors__/_TinyIslands/Maps/Team14/Map_Team14/2/AZ/AWR0TACEV3DYRWHBAU2U73.uasset",
-				"D:/Enjmin/enjmin_2023-2024/atelier_unreal/workshop_ld/WorshopUnrealEngine/Content/__ExternalActors__/_TinyIslands/Maps/Team14/Map_Team14/2/I0/HI8C8304RRQW73SSGWJMWX.uasset",
-				"D:/Enjmin/enjmin_2023-2024/atelier_unreal/workshop_ld/WorshopUnrealEngine/Content/__ExternalActors__/_TinyIslands/Maps/Team14/Map_Team14/3/K8/SYGALQPVBTKM9CZSBGZ5UW.uasset",
-				"D:/Enjmin/enjmin_2023-2024/atelier_unreal/workshop_ld/WorshopUnrealEngine/Content/__ExternalActors__/_TinyIslands/Maps/Team14/Map_Team14/0/DM/NSI9T6C2RWEWLSAIDT7PTT.uasset",
-				"D:/Enjmin/enjmin_2023-2024/atelier_unreal/workshop_ld/WorshopUnrealEngine/Content/__ExternalActors__/_TinyIslands/Maps/Team14/Map_Team14/5/CK/4G9168ZM7JIH3WKV07TZSW.uasset",
-				"D:/Enjmin/enjmin_2023-2024/atelier_unreal/workshop_ld/WorshopUnrealEngine/Content/__ExternalActors__/_TinyIslands/Maps/Team14/Map_Team14/5/TC/WP0Z155R1Y2IRKFS37MKUE.uasset",
-				"D:/Enjmin/enjmin_2023-2024/atelier_unreal/workshop_ld/WorshopUnrealEngine/Content/__ExternalActors__/_TinyIslands/Maps/Team14/Map_Team14/6/1N/728MAYQI03CMJGCL6MS2M5.uasset",
-				"D:/Enjmin/enjmin_2023-2024/atelier_unreal/workshop_ld/WorshopUnrealEngine/Content/__ExternalActors__/_TinyIslands/Maps/Team14/Map_Team14/7/NG/DROEH2HMLO4XTVGJOKKCHB.uasset",
-				"D:/Enjmin/enjmin_2023-2024/atelier_unreal/workshop_ld/WorshopUnrealEngine/Content/__ExternalActors__/_TinyIslands/Maps/Team14/Map_Team14/8/M2/4MRW0YBW6M3CKH28LTBBHD.uasset",
-				"D:/Enjmin/enjmin_2023-2024/atelier_unreal/workshop_ld/WorshopUnrealEngine/Content/__ExternalActors__/_TinyIslands/Maps/Team14/Map_Team14/8/WB/5WQVLTTBT3FDZHD2GXLR1L.uasset",
-				"D:/Enjmin/enjmin_2023-2024/atelier_unreal/workshop_ld/WorshopUnrealEngine/Content/__ExternalActors__/_TinyIslands/Maps/Team14/Map_Team14/A/PL/OB8ZT9ZRKIQDOLWG8GNC9F.uasset"
-=======
-				"C:/Users/tomal/OneDrive/Bureau/Unreal/LD-WORKSHOP-M2/Content/_TinyIslands/Actors/Analytics/AnalyticsManager.uasset"
->>>>>>> 1322718f82c8881e8320e08991e902e7db319db0
+				"D:/Enjmin/enjmin_2023-2024/atelier_unreal/workshop_ld/WorshopUnrealEngine/Content/__ExternalActors__/_TinyIslands/Maps/Team14/Map_Team14/3/X4/N1CJ5U75LUPPATWAFQG34V.uasset",
+				"D:/Enjmin/enjmin_2023-2024/atelier_unreal/workshop_ld/WorshopUnrealEngine/Content/_TinyIslands/Maps/Team14/_GENERATED/Lamaxelle/Box_0EA2708B.uasset"
 			]
 		}
 	]
